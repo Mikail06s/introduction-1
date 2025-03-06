@@ -1,1 +1,1 @@
-git commit -m "Добавил README.md"
+git add README.md
